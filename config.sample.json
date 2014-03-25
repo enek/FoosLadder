@@ -5,7 +5,7 @@
 		"port": 5984,
 		"usersDB": "foosplayers",
 		"matchesDB": "foosmatches",
-		"matchesDBClone": "foosmatchesClone",
+		"matchesDBClone": "foosmatchesclone",
 		"matchStatusDB": "foosstatus",
 		"companiesDB": "fooscompanies"
 		},
